@@ -1,16 +1,16 @@
 # ShutUpAndGiveMeANumber
-<center>
+<div style="text-align:center">
 ![](https://github.com/CTeipen/ShutUpAndGiveMeANumber/blob/master/images/shutup.jpg)
-</center>
+</div>
 
 ## Beschreibung
 Das Programm ist eine JavaFX Anwendung mit der man sich eine Reihe von Zahlen generieren lassen kann.
 Diese Zahlen lassen sich mittels der Bedienelemente auf verschiedenste Weise manipulieren.
 
 ## Bedienung
-<center>
+<div style="text-align:center">
 ![Die Oberfläche der Anwendung](https://github.com/CTeipen/ShutUpAndGiveMeANumber/blob/master/images/interface.png)
-</center>
+</div>
 Die Menüleiste bietet die Optionen die Anwendung zu schließen über "File -> Close".
 Über "Help -> ?" öffnet sich ein Fenster mit Hilfen zu der Manipulation eines spezifischen Anwendungsfalles.
 
