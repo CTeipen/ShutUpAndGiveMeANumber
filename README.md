@@ -4,7 +4,7 @@ Das Programm ist eine JavaFX Anwendung mit der man sich eine Reihe von Zahlen ge
 Diese Zahlen lassen sich mittels der Bedienelemente auf verschiedenste Weise manipulieren.
 
 ## Bedienung
-<center>![Die Oberfläche der Anwendung](https://github.com/CTeipen/ShutUpAndGiveMeANumber/blob/master/images/interface.png "Oberfläche von ShutUpAndGiveMeANumber")</center>
+![Die Oberfläche der Anwendung](https://github.com/CTeipen/ShutUpAndGiveMeANumber/blob/master/images/interface.png)
 Die Menüleiste bietet die Optionen die Anwendung zu schließen über "File -> Close".
 Über "Help -> ?" öffnet sich ein Fenster mit Hilfen zu der Manipulation eines spezifischen Anwendungsfalles.
 
