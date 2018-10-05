@@ -1,7 +1,7 @@
 # ShutUpAndGiveMeANumber
 <center>
   
-![](https://github.com/CTeipen/ShutUpAndGiveMeANumber/blob/master/images/shutup.jpg)
+![Titelbild](https://github.com/CTeipen/ShutUpAndGiveMeANumber/blob/master/images/shutup.jpg)
 
 </center>
 
