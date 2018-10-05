@@ -1,6 +1,8 @@
 # ShutUpAndGiveMeANumber
 <div style="text-align:center">
+  
 ![](https://github.com/CTeipen/ShutUpAndGiveMeANumber/blob/master/images/shutup.jpg)
+
 </div>
 
 ## Beschreibung
@@ -9,7 +11,9 @@ Diese Zahlen lassen sich mittels der Bedienelemente auf verschiedenste Weise man
 
 ## Bedienung
 <div style="text-align:center">
+  
 ![Die Oberfläche der Anwendung](https://github.com/CTeipen/ShutUpAndGiveMeANumber/blob/master/images/interface.png)
+
 </div>
 Die Menüleiste bietet die Optionen die Anwendung zu schließen über "File -> Close".
 Über "Help -> ?" öffnet sich ein Fenster mit Hilfen zu der Manipulation eines spezifischen Anwendungsfalles.
